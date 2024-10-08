@@ -1,5 +1,5 @@
 # 💫 About Me:
-1 - 👋 Hi, I’m @RenePessoto<br>2 - 👀 I’m interested in Machine Learning and Artificial Intelligence<br>3 - 🌱 I’m currently learning Python and AWS<br>4 - 📫 You can find me by my e-mail or social-media links<br> 
+1 - 👋 Hi, I’m @RenePessoto<br>2 - 👀 I’m interested in Python and exploring its vast applications, from simple automation to complex solutions.<br>3 - 📫 You can find me by my e-mail or social-media links<br> 
 
 
 ## 🌐 Socials:
